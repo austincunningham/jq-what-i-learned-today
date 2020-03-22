@@ -1,0 +1,22 @@
+{
+  "hello": "world",
+  "Water":{
+    "Atlantic":"Ocean",
+    "Pacific":"Ocean",
+    "Mediterranean":{
+      "Ocean": false,
+      "Sea": true
+    }
+  },
+  "Land":{
+    "Europe":[
+      "Ireland",
+      "France",
+      "Germany"
+    ],
+    "Asia":[
+      "India",
+      "China"
+    ]
+  }
+}

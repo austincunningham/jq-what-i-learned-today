@@ -1,0 +1,8 @@
+{
+  "Atlantic": "Ocean",
+  "Pacific": "Ocean",
+  "Mediterranean": {
+    "Ocean": false,
+    "Sea": true
+  }
+}
